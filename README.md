@@ -12,6 +12,12 @@ Hi, i'm Josh Pasour, a developing software engineer and I am currently completin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshbep&layout=compact)](https://github.com/Joshbep)
 
 
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&color=FFA500)
+
+
 <!---
 Joshbep/Joshbep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
