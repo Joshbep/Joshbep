@@ -6,6 +6,11 @@ Hi, i'm Josh Pasour, a developing software engineer and I am currently completin
 <a href="https://www.linkedin.com/in/joshua-pasour-a406387b/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/joshpasour/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
+## 😎 I'm currently working on
+- Project coming soon
+
+## 🚀 I'm currently learning
+- Javascript
 
 ## 💻 GitHub Stats
 [![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Joshbep)](https://github.com/Joshbep)
