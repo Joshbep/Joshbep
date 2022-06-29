@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Joshbep
-- 👀 I’m interested in anime, manga marketing and coding.
-- 🌱 I’m currently learning how to code. I am in a GA bootcamp.
-- 💞️ I’m looking to collaborate on anything that helps me gain experience!
-- 📫 How to reach me Joshuabemartin@gmail.com
+Hi There 👋
+
+Hi, i'm Josh Pasour, a developing software engineer and I am currently completing a Bootcamp at General Assembly. My passion for software engineer lies within dreaming up projects and executing these to provide something game changing! Also while continuously pursuing new knowledge, so I can land my first SE career!
+
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Joshbep)](https://github.com/Joshbep)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshbep&layout=compact)](https://github.com/Joshbep)
+
 
 <!---
 Joshbep/Joshbep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
