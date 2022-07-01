@@ -11,6 +11,8 @@ Hi, i'm Josh Pasour, a developing software engineer. I am currently completing a
 
 ## 🚀 I'm currently learning
 - Javascript
+- HTML
+- CSS
 
 ## 💻 GitHub Stats
 [![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Joshbep)](https://github.com/Joshbep)
