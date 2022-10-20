@@ -11,8 +11,8 @@ Hi, i'm Josh Pasour, a developing software engineer. I am currently completing a
 
 ## 🚀 I'm currently learning
 - Python
--SQL
--Postgresql
+- SQL
+- Postgresql
 - React
 
 ## 💻 GitHub Stats
