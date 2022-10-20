@@ -8,13 +8,12 @@ Hi, i'm Josh Pasour, a developing software engineer. I am currently completing a
 </br>
 ## 😎 I'm currently working on
 - My Portfolio 
-- Media Library
 
 ## 🚀 I'm currently learning
+- Python
+-SQL
+-Postgresql
 - React
-- Express.js
-- Node.js
-- MongoDB
 
 ## 💻 GitHub Stats
 [![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Joshbep)](https://github.com/Joshbep)
