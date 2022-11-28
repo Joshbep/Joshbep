@@ -7,7 +7,7 @@ Hi, i'm Josh Pasour, a developing software engineer. I completed a bootcamp at G
 <a href="https://www.instagram.com/joshpasour/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 ## 😎 I'm currently working on
-- My Portfolio 
+- Twitter Clone
 
 ## 🚀 I'm currently learning
 - Python
