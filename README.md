@@ -9,10 +9,10 @@ Hi, i'm Josh Pasour, a developing software engineer. I completed a bootcamp at G
 ## 😎 I'm currently working on
 - Twitter Clone
 - Data Structures
+- Grokking Algorithms
 - Studying Algomonster
 
 ## 🚀 I'm currently learning
-- React
 - Python
 - SQL
 - Postgresql
