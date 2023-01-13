@@ -17,11 +17,6 @@ Hi, i'm Josh Pasour, a software engineer. I completed a bootcamp at General Asse
 - SQL
 - Postgresql
 
-## 💻 GitHub Stats
-[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=Joshbep)](https://github.com/Joshbep)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshbep&layout=compact)](https://github.com/Joshbep)
-
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
