@@ -7,15 +7,14 @@ Hi, i'm Josh Pasour, a software engineer. I completed a bootcamp at General Asse
 <a href="https://www.instagram.com/joshpasour/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 ## 😎 I'm currently working on
-- Twitter Clone
-- Data Structures
-- Grokking Algorithms
-- Studying Algomonster
+- Youtube Clone
+- JavaScript Algorithms and Data Structures Masterclass
 
 ## 🚀 I'm currently learning
-- Python
-- SQL
-- Postgresql
+- Redux
+
+## 🚀 I'm currently Reviewing
+- React
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
