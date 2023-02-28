@@ -11,7 +11,9 @@ Hi, i'm Josh Pasour, I'm a software engineer with 2 years of experience in web d
 - JavaScript Algorithms and Data Structures Masterclass
 
 ## 🚀 I'm currently learning
-- Redux
+- Cloud Computing
+- CI/CD tools
+- Typescript
 
 ## 🚀 I'm currently Reviewing
 - React
