@@ -1,6 +1,6 @@
 <h2>Hi There 👋 </h2>
 
-Hi, i'm Josh Pasour, I'm a software engineer with 2 years of experience in web development on marketing teams. I developed a passion for coding and the ability to learn new technologies quickly while building and optimizing websites for clients and building many full-stack apps as a student. My goal is to go from web development to a software engineering role.
+Hi, i'm Josh Pasour, I'm a software engineer with a strong interest in coding, two years of web development experience in marketing teams, and the ability to quickly learn new technologies, I am well-equipped to transition from marketing and web development to a software engineering role. In my current role, I have been able to build and optimize websites for clients, as well as create full-stack applications as a student. My ultimate goal is to continue to grow in this field and become a successful software engineer.
 
 ## 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/joshua-pasour-a406387b/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Josh Pasour | LinkedIn" width="21px"/></a>
