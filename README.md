@@ -7,9 +7,11 @@ Hi, i'm Josh Pasour, I'm a software engineer with a strong interest in coding, t
 <a href="https://www.instagram.com/joshpasour/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 ## 😎 I'm currently working on
-- Meme Generator
+- Finishing up my twitter clone
+- Notes app
 - Daily codewars
 - Daily Leetcode
+- Cracking the coding interview
 
 ## 🚀 I'm currently learning
 - Cloud Computing
