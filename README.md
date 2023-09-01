@@ -8,9 +8,7 @@ Hi, i'm Josh Pasour, I'm a software engineer with a strong interest in coding, t
 </br>
 ## 😎 I'm currently working on
 - Finishing up my twitter clone
-- Notes app
-- Daily codewars
-- Daily Leetcode
+- python
 - Cracking the coding interview
 
 ## 🚀 I'm currently learning
