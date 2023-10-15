@@ -17,6 +17,7 @@ Hi, i'm Josh Pasour, I'm a software engineer with a strong interest in coding, t
 
 ## 🚀 I'm currently Reviewing
 - React
+- Python
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
